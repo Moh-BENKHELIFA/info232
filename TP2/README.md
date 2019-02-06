@@ -46,7 +46,7 @@ Now you need to update your GitHub repo just as [last week](https://github.com/z
 	```bash
 	cd ~/projects/info232/TP2
 	git add *.ipynb *.py
-	git commit -m "Si je ne modifie pas ce message de commit, je suis un cochon"
+	git commit -m "Je modifie ce message de commit, je suis propre"
 	git push
 	```
 	(and type your GitHub username and password if necessary);
